@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import routesConstants from "../constants/routeConstants";
 import { Icons } from "../assets/icons";
-
+ 
 const Footer = () => {
   return (
     <footer className="flex items-center bg-errie-black relative border-t-[1px] border-t-white border-solid">
