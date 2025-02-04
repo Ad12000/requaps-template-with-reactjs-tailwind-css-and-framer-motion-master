@@ -1,6 +1,6 @@
 import { Images } from "../../assets/images";
 import { motion } from "framer-motion";
-
+ 
 const ProcessMap = () => {
   return (
     <section className="max-w-[1200px] mx-auto py-[65px] text-white px-4">
