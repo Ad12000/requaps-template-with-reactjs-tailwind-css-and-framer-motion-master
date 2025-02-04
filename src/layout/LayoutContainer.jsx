@@ -9,7 +9,7 @@ const LayoutContainer = () => {
       <main className="relative z-0">
         <Outlet></Outlet>
       </main>
-      <Footer />
+      <Footer /> 
     </div>
   );
 };
