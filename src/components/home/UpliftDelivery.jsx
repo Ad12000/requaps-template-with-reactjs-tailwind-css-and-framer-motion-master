@@ -1,7 +1,7 @@
 import { UPLIFT_DELIVERY_DATA } from "../../data/mockData";
 import useGradientUpdater from "../../hooks/useGradientUpdater";
 import { motion } from "framer-motion";
-
+ 
 const UpliftDelivery = () => {
   const gradientRefs = useGradientUpdater();
   return (
